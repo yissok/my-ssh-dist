@@ -1,0 +1,30 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1",
+  "app": "my-ssh",
+  "global": "__sveltekit_sihcaj",
+  "start": "_app/immutable/entry/start.wLok0PK1.js",
+  "appEntry": "_app/immutable/entry/app.CFgODNOP.js",
+  "styles": [
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/assets/0.B_PICIHt.css"
+  ],
+  "scripts": [
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/vendor/browser-console.js"
+  ],
+  "preloads": [
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/entry/start.wLok0PK1.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/chunks/B8vJpi0G.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/chunks/eaWJfw8W.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/chunks/CxNvZui_.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/entry/app.CFgODNOP.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/chunks/dcJ_H8kW.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/chunks/Ci5zMpv3.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/chunks/Boy0D0DA.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/nodes/0.howmbkTJ.js",
+    "https://yissok.github.io/my-ssh-dist/releases/af94fa4d34ce651b3fa2819e17d5f770757afac2-37213941208-1/_app/immutable/chunks/CnkeLKBV.js"
+  ],
+  "social": {
+    "title": "My Ssh",
+    "description": "An interactive website created with Project Factory."
+  }
+}
